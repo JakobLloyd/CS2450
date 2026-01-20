@@ -13,4 +13,4 @@ while True:
         print(f"{name} is {age} years old.")
         break
     else:
-        print("Rats.")
+        print("Shoot.")
