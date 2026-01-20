@@ -1,6 +1,7 @@
 import random
 
 print("Hello! I am going to try to guess your age.")
+print("Hi how are you")
 
 name = input("What is your name? ")
 
