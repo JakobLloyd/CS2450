@@ -15,3 +15,9 @@ Week 4:
 Dear diary,
 
 This week we made the requirments documentation which we already did last week so we just chnaged it to fit the requirments and added some stuff. We also learned what user stories were and using them to help us focus on the right thing.
+
+Week 5:
+
+Dear diary,
+
+This week we made diagrams for flow and components, this was just puting what we have talked about in a diagram. One of the diagrams was personal then we worked on one together and combined each aspect to make a singular component diagram.
