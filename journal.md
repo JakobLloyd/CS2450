@@ -21,3 +21,9 @@ Week 5:
 Dear diary,
 
 This week we made diagrams for flow and components, this was just puting what we have talked about in a diagram. One of the diagrams was personal then we worked on one together and combined each aspect to make a singular component diagram.
+
+Week 6:
+
+Dear diary,
+
+This week we learned about presentations and what to do for our presentations on the project for each part, everyone got assigned sections to work on mine was slide 6 so I decided to create a figma prototype for my slide and then just screenshot the prototype. We learned about colors and themeing as well so for ours since it's medical based or mental health based I decided on the colors green, blue, and white to represent our application.
