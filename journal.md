@@ -27,3 +27,9 @@ Week 6:
 Dear diary,
 
 This week we learned about presentations and what to do for our presentations on the project for each part, everyone got assigned sections to work on mine was slide 6 so I decided to create a figma prototype for my slide and then just screenshot the prototype. We learned about colors and themeing as well so for ours since it's medical based or mental health based I decided on the colors green, blue, and white to represent our application.
+
+Week 7:
+
+Dear diary,
+
+This week people presented their projects and their ideas and presentations were really good, one of my team members was sick so we had to push it off until Thursday instead of presenting Tuesday. I am worried for my group some of our group members slides look questionable but im not the lead on this one and i've asked them to change it so it's a bit more presentable so ill just focus on my slides instead on thursday.
