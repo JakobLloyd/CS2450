@@ -33,3 +33,15 @@ Week 7:
 Dear diary,
 
 This week people presented their projects and their ideas and presentations were really good, one of my team members was sick so we had to push it off until Thursday instead of presenting Tuesday. I am worried for my group some of our group members slides look questionable but im not the lead on this one and i've asked them to change it so it's a bit more presentable so ill just focus on my slides instead on thursday.
+
+Week 8:
+
+Dear diary,
+
+This week I was the scrum master and we worked on our project a bit and fleshed out a lot of the design and early stages such as login and the flask info. Some of my group members have overarching task such as the css which is always changing so thats understandable but the rest of us have completed one task each.
+
+Week 9:
+
+Dear diary,
+
+This week i am worried none of our group members wanted to be the scrum master so they decided to do a wheel that randomly chose a group member. I think filipe was chosen but I haven't really gotten any updated or confrimation on anything so ill just work on my parts and hope the rest of the group does too.
