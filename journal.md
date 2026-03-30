@@ -45,3 +45,9 @@ Week 9:
 Dear diary,
 
 This week i am worried none of our group members wanted to be the scrum master so they decided to do a wheel that randomly chose a group member. I think filipe was chosen but I haven't really gotten any updated or confrimation on anything so ill just work on my parts and hope the rest of the group does too.
+
+Week 10:
+
+Dear diary,
+
+This last week we worked on the unit testing for your our own project, I believe I completed 16 test. It was a bit hard to set up especially on windows but I got it done eventually and I think most of my team completed it as well, that being said we didn't work on the project that much because we were setting it up.
