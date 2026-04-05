@@ -51,3 +51,9 @@ Week 10:
 Dear diary,
 
 This last week we worked on the unit testing for your our own project, I believe I completed 16 test. It was a bit hard to set up especially on windows but I got it done eventually and I think most of my team completed it as well, that being said we didn't work on the project that much because we were setting it up.
+
+Week 11:
+
+Dear diary, 
+
+This week we worked on refactoring and our own projects a lot of it was centered around logic and readability as well as overall structure. This week for the project I did all the database stuff and allowed post and other things so that we can move along further in the project.
