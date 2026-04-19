@@ -57,3 +57,10 @@ Week 11:
 Dear diary, 
 
 This week we worked on refactoring and our own projects a lot of it was centered around logic and readability as well as overall structure. This week for the project I did all the database stuff and allowed post and other things so that we can move along further in the project.
+
+Week 12:
+
+This week we worked on dockerfiles and creating a virtual environment for our project and just for funzies. This week we didn't really work on the project much and at this point I have no idea who is supposed to be in charge and who has done leader.
+
+Week 13:
+This week we got a day off on thursday which was nice but also not good because we still are not very far in the project so ive been doing some building this weekend. I've built several pages out with index and nav bar because we only had two before home and messages so I added several.
